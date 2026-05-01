@@ -13,4 +13,4 @@ Responsive Netflix Sample website built with HTML5 + CSS3 + Resposive design.
 -Hosted on Github Pages
 
 ## Screenshot
-![Netflix Sample Screenshot](./Screenshot20%2026-05-0120%235526,png)
+![Netflix Sample Screenshot](./Screenshot 2026-05-01 235526.png)
